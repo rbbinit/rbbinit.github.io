@@ -11,7 +11,7 @@ email: krbbinit@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://webjeda.com" # the base hostname & protocol for your site
+url: "github.com/rbbinit" # the base hostname & protocol for your site
 
 
 # Build settings
