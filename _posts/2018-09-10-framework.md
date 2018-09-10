@@ -1,5 +1,5 @@
 ---
-title: "Block chain Intro (udacity)"
+title: "Frame of blockchains (udacity)"
 date: 2019-09-10 08:26:28 -0400
 layout: post
 categories: framework of blockchain
