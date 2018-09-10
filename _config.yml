@@ -45,8 +45,8 @@ gems: [jekyll-paginate, jekyll-seo-tag]
   
 prose:
   rooturl: ''
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  siteurl: 'https://github.com/rbbinit'
+  relativeLinks: 'https://github.com/rbbinit'
   media: 'images'
   ignore:
     - index.md
