@@ -9,6 +9,7 @@ categories: framework of blockchain
 
 Why is manage transaction important?
 = Without transaction, blockchain technology is nothing, but just static entity.
+![image 001](https://user-images.githubusercontent.com/31816456/45398951-37eb3d00-b681-11e8-8c9d-0210732dc7c7.png)
 
 The concept of Blockchain identity is very important. It's like bank account, drivers licenses, club membership and so on.
 Also, bitcoin wallet is consisted of private key, public key and wallet address.
