@@ -9,7 +9,7 @@ Once you decide that blockchain is the right solution, it's time to decide which
 
 There are 3 types : **PUBLIC , PRIVATE, HYBRID**
 
-![image 051](https://user-images.githubusercontent.com/31816456/45427522-0b174400-b6da-11e8-9517-f792912e6765.png)
+![image 051](https://user-images.githubusercontent.com/31816456/45427522-0b174400-b6da-11e8-9517-f792912e6765.png)  
 Public blockchain = everyone has access  
                    anyone can join & access to add and verify transactions.  
                    ex) bitcoin  
