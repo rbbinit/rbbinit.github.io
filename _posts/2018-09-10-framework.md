@@ -9,7 +9,6 @@ categories: framework of blockchain
 
 Why is manage transaction important?
 = Without transaction, blockchain technology is nothing, but just static entity.
-![image 001](https://user-images.githubusercontent.com/31816456/45398951-37eb3d00-b681-11e8-8c9d-0210732dc7c7.png)
 
 The concept of Blockchain identity is very important. It's like bank account, drivers licenses, club membership and so on.
 Also, bitcoin wallet is consisted of private key, public key and wallet address.
@@ -25,10 +24,11 @@ Private key= It's secret key. Very very important key and should be hided to oth
 
 Hashing is also important things you should know.
 It has Three things. =SHA256, ECDSA, RIPEMD 
+![image 002](https://user-images.githubusercontent.com/31816456/45399055-a5976900-b681-11e8-87eb-b36d8871b7a7.png)
 
 < Steps of how hashing is used> 
 Private keys -> ECDSA (Algorithms) -> Public Keys -> SHA256 -> result of SHA256 -> RIPEMD160 -> (Base58check) -> Wallet Address
-
+![image 010](https://user-images.githubusercontent.com/31816456/45399070-b9db6600-b681-11e8-962d-1336c85499ea.png)
  but reverse is very very very difficult. (So blockchain's security is great)
 
 SHA256 = 256 means it consisted of 256 bits , Ripemd160 = 160 bits also.
