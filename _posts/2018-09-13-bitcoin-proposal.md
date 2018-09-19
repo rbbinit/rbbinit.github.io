@@ -2,7 +2,9 @@
 title: "Bitcoin-proposal"
 date: 2019-09-13 10:26:28 -0400
 layout: post
-categories: Development of blockchain
+comments: true
+categories: UdacityCourse
+tags: UdacityCourse
 ---
 
 •	Who is working on building this?  
