@@ -2,7 +2,9 @@
 title: "Bitcoin core"
 date: 2019-09-17 10:26:28 -0400
 layout: post
-categories: framework of blockchain
+comments: true
+categories: UdacityCourse
+tags: UdacityCourse
 ---
 
 
