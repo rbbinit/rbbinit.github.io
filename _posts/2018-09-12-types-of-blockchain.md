@@ -2,7 +2,9 @@
 title: "types of blockchain"
 date: 2019-09-12 10:26:28 -0400
 layout: post
-categories: framework of blockchain
+comments: true
+categories: UdacityCourse
+tags: UdacityCourse
 ---
 
 Once you decide that blockchain is the right solution, it's time to decide which type of blockchain would be most effective.
