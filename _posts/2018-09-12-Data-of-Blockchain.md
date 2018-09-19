@@ -2,7 +2,9 @@
 title: "Data of blockchain"
 date: 2019-09-11 12:26:28 -0400
 layout: post
-categories: data
+comments: true
+categories: UdacityCourse
+tags: UdacityCourse
 ---
 
 Blocks contain two main sections that each hold important data  
