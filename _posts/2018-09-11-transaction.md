@@ -2,7 +2,9 @@
 title: "About transaction"
 date: 2019-09-11 09:59:28 -0400
 layout: post
-categories: framework of blockchain
+comments: true
+categories: UdacityCourse
+tags: UdacityCourse
 ---
 
 Goal of private keys is security. So how private keys are generated?
