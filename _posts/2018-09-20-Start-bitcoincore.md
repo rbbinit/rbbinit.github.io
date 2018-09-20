@@ -26,6 +26,26 @@ But don't worry. If you don't have any space for now, you can just use bitcoin c
 (A few commands can't be used without full-downloading nodes(about 120GB) )  
 
 ## Pruning  
-You can reduce the amount of space taken by bitcoin blockchain.
+You can reduce the amount of space taken by bitcoin blockchain.  
+![image 118](https://user-images.githubusercontent.com/31816456/45796541-0c4d0000-bcdc-11e8-9dd6-04a31fef5572.png)  
 
+## Switch to Testnet  
+For run the client with a testnet flaog, you need to change a bitcoin configuration file.  
+### First, make a file which named 'bitcoin.conf'  
+![image 197](https://user-images.githubusercontent.com/31816456/45796726-f55add80-bcdc-11e8-9cff-5b88358349db.png)  
+#### If you want to use regnet, just modify textfile's contents to 'regnet = 1'  
+And reboot bitcoin-core program. Icon's color has been changed to green.  (Name also contain test-net)  
+
+## Let's start  
+You need to make new wallets. 
+#### File- receving message - New - Write down in label(anything you want) - Ok  
+![image 124](https://user-images.githubusercontent.com/31816456/45796955-12dc7700-bcde-11e8-9bb2-ac5dfc007a94.png)  
+Now you get a new address. Copy it  
+
+## Details of your wallets.   
+https://live.blockcypher.com/btc-testnet/  
+Using the site, choose 'BTC Testnet'(blue icon) and paste your wallet adderss  
+You can see ***Recent blocks, Current Fee estimates, latest transactions***  
+
+## Next section, we will use Debug console commands
 
