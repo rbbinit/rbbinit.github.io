@@ -7,7 +7,7 @@ categories: UdacityCourse
 tags: UdacityCourse
 ---
 
-Before I use testnet in bitcoin-core, I want to compare testnet and regnet.  
+### Before I use testnet in bitcoin-core, I want to compare testnet and regnet.  
 
 **Testnet is alternative bitcoin blockchain that provides a test environment for applications**  
 **Regnet gives test environment. But there is no network which means local**  
