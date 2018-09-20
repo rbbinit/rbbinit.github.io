@@ -29,7 +29,7 @@ You can find what you need, for example, parameters, return value, and etc.
 ### Blockchain  
 #### Commands list = getblockchaininfo, getblockcount, verifychain  
 
-##### Type 'help getblockchaininfo'  
+#### Type 'help getblockchaininfo'  
 
 ![image 129](https://user-images.githubusercontent.com/31816456/45797644-892ea880-bce1-11e8-9384-ad74c3131be7.png)  
 
@@ -51,7 +51,7 @@ https://github.com/bitcoin/bips <- see more in details
 
 
 
-##### Type 'help getblockcount' and 'getblockcount'  
+#### Type 'help getblockcount' and 'getblockcount'  
 
 ![image 135](https://user-images.githubusercontent.com/31816456/45797970-f2fb8200-bce2-11e8-9f6d-30d1907cbcb8.png)  
 
@@ -59,13 +59,13 @@ As you can see, it returns the number of blocks in the longest blockchain.
 ![image 134](https://user-images.githubusercontent.com/31816456/45797969-f262eb80-bce2-11e8-97a1-14c7dc5fc652.png)  
 
 
-##### Type 'help verifychain' and 'verifychain'  
+#### Type 'help verifychain' and 'verifychain'  
 
 ![image 136](https://user-images.githubusercontent.com/31816456/45798082-70bf8d80-bce3-11e8-8281-ba2a0f9bddd2.png)  
 
 'True' means entire chain is accurate.  
 
 
-### Next session, we see other commands 
+#### Next session, we see other commands 
 
 
