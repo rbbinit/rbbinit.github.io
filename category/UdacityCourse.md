@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Blockchain-UdacityCourse
+title: Blockchain-Udacity-Course
 ---
