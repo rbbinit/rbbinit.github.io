@@ -32,6 +32,7 @@ tags: UdacityCourse
 
 ![image 203](https://user-images.githubusercontent.com/31816456/46268641-856b1380-c576-11e8-9f88-7cbbe60506ea.png)  
 
+
 ## Script  
 ### A list of instructions recorded in each transacction that when executed determines if transaction is valid and bitcoinds can be spent.  
 #### Simple, lightweight language  
@@ -48,6 +49,7 @@ tags: UdacityCourse
 
 ![image 210](https://user-images.githubusercontent.com/31816456/46270238-8e151700-c581-11e8-952d-4e6b493ed549.png)
 ![image 211](https://user-images.githubusercontent.com/31816456/46270239-8eadad80-c581-11e8-9d58-a7416c2aa994.png)  
+
 
 ### Details  
 ![image 213](https://user-images.githubusercontent.com/31816456/46270469-a5a0cf80-c582-11e8-8c67-965ce0b9c3f3.png)  
