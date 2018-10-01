@@ -45,7 +45,7 @@ tags: UdacityCourse
 ![image 219](https://user-images.githubusercontent.com/31816456/46271267-c4a16080-c586-11e8-9552-4b3791a730ac.png)  
 
 ### Input  
-#### It is <sig><pubKey>  
+#### It is sig, pubKey  
 
 ### Output  
 #### DUP HASH160 PUSHDATA(20)[07628bb59790a53711f3e9caddaa7eed89663935] EQUALVERIFY CHECKSIG  
