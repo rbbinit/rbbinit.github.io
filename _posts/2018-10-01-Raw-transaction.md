@@ -68,7 +68,24 @@ tags: UdacityCourse
 
 ### 'scriptSig' field is empty now. Why? We have not signed transaction yet to prove that we own the address from  
 ### which the UTXO were sourced.  
+  
+
+# Build Out Command  
+
+![image 238](https://user-images.githubusercontent.com/31816456/46279457-173d4580-c5a4-11e8-9145-20c96a4f49fd.png)  
 
 
+## signrawtransaction  
 
-## Next session, let's see other steps more.  
+### signrawtransaction "hexstring"  
+
+
+## sendrawtransaction  
+
+### It takes the raw hex string produced by signrawtransaction and returns a transaction hash (txid) as it submits the transaction on the network  
+
+
+## gettransaction  
+
+### Query the TxID and view details. Similar to online block explorer.  
+
